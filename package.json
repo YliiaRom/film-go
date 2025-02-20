@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/day-night/",
+    "build": "vite build --base=/film-go/",
     "preview": "vite preview"
   },
   "devDependencies": {
@@ -16,7 +16,7 @@
     "sass-embedded": "^1.83.4",
     "vite": "^5.4.6"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Romanenko Yuliia<romany0507306677@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.9",
